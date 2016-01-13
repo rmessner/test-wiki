@@ -1,3 +1,3 @@
 toto
 
-![GitHub Logo](/images/mdQwVN-c.png)
+![GitHub Logo](/wiki/images/mdQwVN-c.png)
